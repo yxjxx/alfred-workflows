@@ -1,6 +1,12 @@
 Set qujing autopac url with alfred
 ==============================
 
+#demo
+
+[YouTube video](https://www.youtube.com/watch?v=gHoS3jtL_9E)
+
+#usage
+
 - 1 for Thunderbolt Ethernet
 - 2 for Wi-Fi
 - 3 for 360Wi-Fi
