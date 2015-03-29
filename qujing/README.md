@@ -14,7 +14,3 @@ Set qujing autopac url with alfred
 networksetup -listallnetworkservices
 ```
 ![Pic](http://i.imgur.com/OGeBe8V.png)
-
-#Known bug
-
-For Fill Pop-up Authorization Dialogs Automatically, you may need to excute a sudo command first.
