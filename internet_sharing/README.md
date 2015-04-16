@@ -10,4 +10,8 @@ Turn on/off your default internet sharing options
 1. applescript
 2. [UI Browser](http://pfiddlesoft.com/uibrowser/index.html)
 
+#more
+
+1. Please make sure Accessibility is setted for Alfred.![pics](http://i.imgur.com/YpckkrG.png)
+
 
