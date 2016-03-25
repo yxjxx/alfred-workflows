@@ -1,6 +1,6 @@
 #Set proxy url for surge with alfred
 
-##Get your networksetsetvices names
+##Get your networkservices' names
 
 ```
 networksetup -listallnetworkservices
