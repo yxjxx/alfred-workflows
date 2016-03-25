@@ -23,3 +23,7 @@ echo $PASSWD | sudo -S networksetup -setproxybypassdomains "Wi-Fi" ${domain} ${d
 ##Why use this script
 
 [偶尔在 ShadowsocksX 和 Surge for Mac 之间切换，不想手动修改 http 和 https 代理地址](https://twitter.com/yxjxx/status/702852960842190853)
+
+[surge 会影响到 1Password 的自动填充。要 bypass 掉 localhost 和127.0.0.1](https://twitter.com/yxjxx/status/713327566296207360)
+
+![Surge_1Password_error](../pics/Surge_1Password_error.png)
