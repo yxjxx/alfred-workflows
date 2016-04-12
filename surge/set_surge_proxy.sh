@@ -2,7 +2,7 @@
 # @Author: yxjxx
 # @Date:   2016-02-25 21:19:57
 # @Last Modified by:   yxjxx
-# @Last Modified time: 2016-03-25 18:57:29
+# @Last Modified time: 2016-04-12 19:27:36
 # set them by yourself
 PASSWD=<Your_Password>
 domain="127.0.0.1"
@@ -17,3 +17,6 @@ echo $PASSWD | sudo -S networksetup -setsecurewebproxy "Wi-Fi" ${domain} ${portn
 
 echo $PASSWD | sudo -S networksetup -setproxybypassdomains "Thunderbolt Ethernet" ${domain} ${domain2}
 echo $PASSWD | sudo -S networksetup -setproxybypassdomains "Wi-Fi" ${domain} ${domain2}
+
+echo $PASSWD | sudo -S networksetup -setsocksfirewallproxy "Thunderbolt Ethernet" ${domain} ${portnumber}
+echo $PASSWD | sudo -S networksetup -setsocksfirewallproxy "Wi-Fi" ${domain} ${portnumber}
